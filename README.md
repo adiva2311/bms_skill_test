@@ -1,6 +1,6 @@
 # Skill Test BMS
 
-Ini adalah hasil Skill Test yang sudah saya kerjakan
+Ini adalah hasil Skill Test yang sudah saya kerjakan untuk Skill Test Bimasakti Multi Sinergi
 
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://go.dev/)
 
